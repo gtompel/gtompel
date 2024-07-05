@@ -1,5 +1,29 @@
-## Hi there 👋
+## Hi 👋, I`m George Tompel
+==================
 
+
+JavaScript FullStack Developer
+----------------------------------------------
+
+I am a full stack developer. Making the world a better place with Node.js and React Hooks 😎 
+
+* 📫  You can contact me at [It's not ready yet](mailto:saxson9@gmail.com)
+* 🧠  I'm learning something new all the time
+* 🤝  I'm open to collaborating on developer projects and technical content creation
+
+### Skills
+- 🎨 MUI, ChakraUI and Tailwind
+- 👩🏽‍💻 React, TypeScript and JavaScript
+- ☁️ Serverless (Firebase and Appwrite)
+- 💻 Node
+- 🐘 Postgres
+
+### Technical Content
+- ✍🏼 [Blog](It's not ready yet)
+- 📹 [Youtube channel](It's not ready yet)
+
+### Find me on: 
+-  💬[Instagram]()
 <!--
 **gtompel/gtompel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

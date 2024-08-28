@@ -7,7 +7,7 @@ JavaScript FullStack Developer
 
 I am a full stack developer. Making the world a better place with Node.js and React Hooks 😎 
 
-* 📫  You can contact me at [It's not ready yet](mailto:saxson9@gmail.com)
+* 📫  You can contact me at [telegram](https://t.me/gtompel):
 * 🧠  I'm learning something new all the time
 * 🤝  I'm open to collaborating on developer projects and technical content creation
 

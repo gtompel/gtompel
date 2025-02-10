@@ -1,17 +1,16 @@
-## Привет 👋, Меня зовут # 👑 Юрий Королев
+## Привет! 👋 меня зовут **Юрий Королев** 👑
 ==================
-
 
 **`Web FullStack Developer`** 
 ----------------------------------------------
 
-Fullstack-разработчик из России. Делаем мир лучше с помощью Node.js и хуков React 😎 
+Я фулстек-разработчик из России. Стремлюсь сделать мир лучше с помощью технологий, таких как Node.js и хук React. 😎 
 
-* 📫  You can contact me at [telegram](https://t.me/gtompel):
-* 🧠  I'm learning something new all the time
-* 🤝  I'm open to collaborating on developer projects and technical content creation
+* 📫 Вы можете связаться со мной через [Telegram](https://t.me/gtompel)
+* 🧠 Я постоянно обучаюсь чему-то новому
+* 🤝 Открыт для сотрудничества на проектах и по созданию технического контента
 
-### Skills
+### Мои навыки
 
 <div style="display: inline_block">
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -25,24 +24,24 @@ Fullstack-разработчик из России. Делаем мир лучш
    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+### Технический контент
+- ✍🏼 [Блог](Идет разработка)
+- 📹 [RuTube канал](Идет разработка)
 
-### Technical Content
-- ✍🏼 [Blog](It's not ready yet)
-- 📹 [Youtube channel](It's not ready yet)
+### Найти меня в социальных сетях: 
+- 💬 [Instagram](Идет разработка)
 
-### Find me on: 
--  💬[Instagram]()
 <!--
-**gtompel/gtompel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gtompel/gtompel** — это ✨ _особый_ ✨ репозиторий, поскольку его `README.md` (этот файл) отображается на вашем профиле GitHub.
 
-Here are some ideas to get you started:
+Вот несколько идей, чтобы начать:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 В данный момент я работаю над ...
+- 🌱 Я учусь ...
+- 👯 Я ищу сотрудничество по ...
+- 🤔 Я ищу помощь в ...
+- 💬 Спрашивайте меня о ...
+- 📫 Как со мной связаться: ...
+- 😄 Мои местоимения: ...
+- ⚡ Забавный факт: ...
 -->
